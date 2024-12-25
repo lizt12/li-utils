@@ -1,7 +1,7 @@
 {
-  "name": "litree-utils",
-  "version": "1.0.0",
-  "description": "针对树结构的操作",
+  "name": "li-utils",
+  "version": "0.0.1",
+  "description": "封装常用的工具类",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lizt12/litree-utils.git"
+    "url": "https://github.com/lizt12/li-utils.git"
   }
 }
