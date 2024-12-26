@@ -1,1 +1,2 @@
-测试
+使用
+> npm install li-zt-utils
