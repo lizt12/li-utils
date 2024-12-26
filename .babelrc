@@ -1,14 +1,14 @@
-// {
-//   "presets": [
-//     [
-//       "@babel/preset-env",
-//       {
-//         "targets": {
-//           "ie": "11" // 根据需要定义目标环境，如兼容 IE 11
-//         },
-//         "useBuiltIns": "usage", // 自动引入必要的 polyfill
-//         "corejs": 3 // 指定 core-js 版本
-//       }
-//     ]
-//   ]
-// }
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "ie": "11" // 根据需要定义目标环境，如兼容 IE 11
+        },
+        "useBuiltIns": "usage", // 自动引入必要的 polyfill
+        "corejs": 3 // 指定 core-js 版本
+      }
+    ]
+  ]
+}
